@@ -1,3 +1,5 @@
+## Demo: https://npanium.github.io/SVG-LED-Shader/
+
 # SVG Path Shader
 
 An interactive WebGL shader that creates animated particle effects following custom SVG paths.
